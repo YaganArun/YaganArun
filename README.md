@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on something special !
 - 🌱 I’m currently learning to build native mobile applications.
 - 🤔 I’m looking for help with swift
-- ⚡ Fun fact: 
 
 
 ## 🔧 Technologies & Tools
