@@ -2,9 +2,8 @@
 ## I'm a backend developer 
 
 - 🔭 I’m currently working on something special !
-- 🌱 I’m currently learning to build native mobile applications.
-- 🤔 I’m looking for help with swift
-
+- 🌱 I’m currently learning to build GraphQL API's.
+- 💬 Ask me about **Python, Django, Flask, Nodejs, ExpressJS**
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
