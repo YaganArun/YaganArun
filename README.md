@@ -1,5 +1,5 @@
 # Hi, folks ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-## I'm a backend developer 
+## I'm a web developer 
 
 - 🔭 I’m currently working on something special !
 - 🌱 I’m currently learning to build GraphQL API's.
